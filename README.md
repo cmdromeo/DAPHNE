@@ -1,2 +1,0 @@
-# DAPHNE
-Cumpleaños de pequeña
